@@ -4,7 +4,7 @@
 # Copyright (C) 2024 https://github.com/dy008/amlogic-s9xxx-armbian
 #==========================================================================
 
-name: Build Armbian Home Assistant image
+name: Build h96max Home Assistant image
 
 on:
   repository_dispatch:
